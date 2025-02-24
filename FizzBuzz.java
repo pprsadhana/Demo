@@ -6,7 +6,7 @@ public class FizzBuzz {
 		// TODO Auto-generated method stub
 		       int a=12;
 		     if(a%5==0 && a%3==0){
-		         System.out.println("FizzBuzz");
+		         System.out.println("FizzBuzz is there");
 		     }
 		     else if(a%5==0){
 		         System.out.println("Fizz");
